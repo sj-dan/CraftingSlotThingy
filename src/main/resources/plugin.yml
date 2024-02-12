@@ -1,0 +1,8 @@
+name: TrialProject
+version: '${version}'
+main: ca.danchan.trialproject.Initializer
+api-version: '1.20'
+prefix: TrialPlugin
+authors: [DanChan]
+description: We <3 ClubMine
+website: https://danchan.ca
